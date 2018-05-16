@@ -10,7 +10,7 @@ for x in l:
 		
              r=0
 		
-            break
+             break
 
 if r==0:
 	
