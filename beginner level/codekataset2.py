@@ -4,7 +4,7 @@ def main():
   if(a>=0 and a<=10000):
        	
            if(a%2==0):
-           	print("the given number is even",a)
+           	print("Even")
            else:
-           	print("the given number is odd",a)
+           	print("Odd")
 main()
