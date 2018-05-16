@@ -14,8 +14,8 @@ for x in l:
 
 if r==0:
 	
-  print "vowel"
+  print "Vowel"
 
 elif r!=0 :
 	
- print "constant"
+ print "Consonant"
