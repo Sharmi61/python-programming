@@ -1,10 +1,10 @@
 def main():
  
- a=int(raw_input())
+ r=int(raw_input())
  
- if(a>=0 and a<=100000):
+ if(r>=0 and r<=100000):
          
-              if(a%2==0):
+              if(r%2==0):
           		
                         print("Even")
          
