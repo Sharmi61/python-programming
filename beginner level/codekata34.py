@@ -18,6 +18,7 @@ for i in range(len(l)):
             temp=l[j]
             l[j]=l[i]
             l[i]=temp
-print l
+for x in l:
+    print x,
 
 
