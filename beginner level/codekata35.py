@@ -10,9 +10,7 @@
 #-------------------------------------------------------------------------------
 s=raw_input()
 try:
-    if int(s):
-        print "yes"
-    elif float(s):
+    if float(s):
         print "yes"
 except ValueError:
     print "no"
