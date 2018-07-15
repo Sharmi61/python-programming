@@ -12,4 +12,5 @@
 n=int(raw_input())
 l=[int(x) for x in raw_input().split()]
 l.sort()
-print l
+for x in l:
+  print l,
