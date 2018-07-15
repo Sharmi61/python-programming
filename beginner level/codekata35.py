@@ -13,4 +13,4 @@ try:
     if float(s):
         print "yes"
 except ValueError:
-    print "no"
+    print "No"
