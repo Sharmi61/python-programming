@@ -10,6 +10,7 @@
 #-------------------------------------------------------------------------------
 s=raw_input()
 l=[str(x) for x in raw_input().split()]
+l.sort()
 for i in range(len(l)):
     for j in range(len(l)):
         if len(l[i])>len(l[j]):
