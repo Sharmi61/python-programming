@@ -16,4 +16,5 @@ for i in range(len(l)):
         l[i]=l[i].lower()
     elif l[i].islower() :
         l[i]=l[i].upper()
-print l
+s=str(l)
+print s
