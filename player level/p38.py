@@ -12,7 +12,6 @@ r=str(raw_input())
 l=list(r)
 s=len(l)-1
 for i in range(s):
-    print l[i]
     if l[i]==" ":
         l.remove(l[i])
         if i!=s-1:
