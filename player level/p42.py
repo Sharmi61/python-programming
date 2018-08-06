@@ -18,6 +18,6 @@ for x in l:
         c=1
         break
 if c==1:
-    print 'yes'
+    print 'Yes'
 else:
-    print 'no'
+    print 'No'
